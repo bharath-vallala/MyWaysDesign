@@ -34,9 +34,6 @@ export default function NavBarComp(props) {
                 <div className="flex-row">
                     <p>About Us</p>
                 </div>
-                <div className="flex-row">
-                    <p>About Us</p>
-                </div>
                 <div className="secondary-button" onClick={close}>
                     <p>Sign Up</p>
                 </div>
